@@ -1,0 +1,16 @@
+.chatrooms div.chatroom {
+	display: inline-block;
+	border: 1px solid #ccc;
+	width: 25%;
+	padding: 10px;
+	text-align:center;
+	vertical-align: top;
+}
+
+.chatroom span {
+	margin-bottom: 1em;
+}
+
+.chatroom button {
+	width: 50%;
+}
